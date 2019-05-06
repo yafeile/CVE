@@ -24,7 +24,7 @@ public class XPathInject {
 			username = args[0];
 			password = args[1];
 		}
-		String s = "//users/user[username/text()=%s and password/text() = %s]/home_dir/text()";
+		String s = "//users/user[username/text()='%s' and password/text() = '%s']/home_dir/text()";
 		s = String.format(s, username, password);
 		System.out.println(s);
 		try {
