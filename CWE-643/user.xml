@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <username>zhangsan</username>
+    <password>123456</password>
+    <home_dir>/home/hello_zhangsan</home_dir>
+  </user>
+  <user>
+    <username>lisi</username>
+    <password>12345678</password>
+    <home_dir>/home/lisi</home_dir>
+  </user>
+  <user>
+    <username>wangwu</username>
+    <password>12356456</password>
+    <home_dir>/home/wangwu</home_dir>
+  </user>
+</users>
