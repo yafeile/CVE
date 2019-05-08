@@ -1,0 +1,6 @@
+<!ELEMENT users (user+)>
+<!ELEMENT user (username,password,home_dir)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ELEMENT home_dir (#PCDATA)>
+<!ENTITY hack SYSTEM "file:///1.txt">

