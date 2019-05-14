@@ -1,4 +1,5 @@
-#重定向跳转
+# 重定向跳转
+
 URL重定向到不安全的站点,详情[参见](http://cwe.mitre.org/data/definitions/601.html)。  
 例如:  
 

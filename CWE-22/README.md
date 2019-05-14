@@ -1,4 +1,4 @@
-#任意目录遍历漏洞
+# 任意目录遍历漏洞
 一般与任意文件上传漏洞一起组合使用,说明[参见](http://cwe.mitre.org/data/definitions/22.html)
 
 ## 常见例子
